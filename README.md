@@ -1,4 +1,4 @@
 # SERA
 
-SERA is fully UK GBP backed stablecoin. 
+SERA is a fully UK GBP backed stablecoin. 
 
